@@ -1,17 +1,17 @@
 # RHPAM_Automation
 RHPAM JBOSS EAP Server Automation Script
 
-##Description
+## Description
 This application involves a bat file that helps manage the execution of a server instance. The bat file checks if anything is already running on port 8080 and starts the server accordingly.
 
-##Prerequisites
+## Prerequisites
 Before running the bat file, ensure that the following prerequisites are met:
 
 You have installed Red Hat JBoss Enterprise Application Platform (EAP) version 7.4.0 or compatible.
 The EAP bin directory is located at C:\Users\ADMIN\EAP-7.4.0\bin (modify the path if necessary).
 The necessary permissions and dependencies are set up on your system.
 
-#Instructions
+# Instructions
 To use this bat file, follow the steps below:
 
 Open a text editor or an integrated development environment (IDE).
@@ -22,7 +22,7 @@ Edit the bat file to replace your installed Application path file
 
 Save the bat file with an appropriate name.
 
-##Running the Application
+## Running the Application
 To run the application using the bat file, follow the steps below:
 
 Open the command prompt or terminal.
@@ -40,7 +40,7 @@ If no application is found on port 8080, the server is started on port 8080.
 Monitor the command prompt or terminal for any error messages or output related to the server startup process.
 
 
-##Contact
+## Contact
 If you have any questions, concerns, or feedback regarding this application, please contact [ajaykrishnan1404@outlook.com].
 
 
