@@ -22,6 +22,9 @@ Edit the bat file to replace your installed Application path file
 
 Save the bat file with an appropriate name.
 
+## note 
+use EAP-v2, EAP-v3 is under development 
+
 ## Running the Application
 To run the application using the bat file, follow the steps below:
 
